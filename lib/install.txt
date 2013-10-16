@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=JLink.jar -DgroupId=com.wolfram.jlink -DartifactId=jlink -Dversion=4.4.0 -Dpackaging=jar
